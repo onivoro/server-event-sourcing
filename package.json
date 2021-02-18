@@ -1,6 +1,6 @@
 {
   "name": "@onivoro/server-event-sourcing",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "dependencies": {
     "@nestjs/common": "^7.6.12",
     "rxjs": "^6.6.3"
